@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Edit-A-Rama</string>
+	<string name="plain_text">Plain Text</string>
+	<string name="html">HTML</string>
+	<string name="markdown">Markdown</string>
+	<string name="richtext">Rich Text</string>
+
+</resources>
