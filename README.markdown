@@ -38,7 +38,7 @@ Do not ask for help via Twitter.
 
 Release Notes
 -------------
-v1.0.0: initial release
+- v1.0.0: initial release
 
 Who Made This?
 --------------
